@@ -2,7 +2,7 @@
 
 ## Introducción
 
-En el lab anterior lograste que `bird` se mueva al pulsar una tecla. En este lab vamos a agregar más código JavaScript para que cuando `bird` tenga una colisión con el suelo, el juego se termine y los efectos del juego paren.
+En el lab anterior lograste que `bird` se mueva al presionar una tecla. En este lab vamos a agregar más código JavaScript para que cuando `bird` tenga una colisión con el suelo, el juego se termine y los efectos del juego paren.
 
 ## Instrucciones
 
